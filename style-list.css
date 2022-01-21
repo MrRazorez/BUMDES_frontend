@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Montserrat";
+  font-size: 22px;
+  background-color: #707070;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.header {
+  background-color: whitesmoke;
+  overflow: hidden;
+  padding: 10px 20px;
+}
+.header .kanan {
+  float: left;
+  display: inline;
+  margin-left: 100px;
+}
+.header .kiri {
+  float: right;
+  display: inline;
+}
+
+.konten {
+  margin-left: 150px;
+  margin-right: 150px;
+  padding: 40px;
+  size: 10px;
+}
+
+/*# sourceMappingURL=style-list.css.map */
